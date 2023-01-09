@@ -19,8 +19,8 @@
   "mock10": [],
   "mock11": [],
   "mock12": [],
-  "temp": [{
+  "temp": {
     "useone":[{"id":1,"title":"rakesh"}],
     "usetwo":[{"id":1,"title":"nilesh"}]
-  }]
+  }
 }
